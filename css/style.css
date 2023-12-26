@@ -303,6 +303,11 @@ img {
 
 .contact__text {
   font-weight: 4000;
+  color: #fff;
+}
+
+.mail__text {
+  color: #fff;
 }
 
 /* ===== SKILLS =====*/
@@ -432,7 +437,7 @@ img {
   padding: 2rem 0;
 }
 .footer__title {
-  font-size: 2rem;
+  font-size: 1rem;
   margin-bottom: var(--mb-4);
 }
 .footer__social {
